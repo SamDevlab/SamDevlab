@@ -1,0 +1,60 @@
+:root{
+background-color: wheat;
+}
+
+
+@keyframes expandColor {
+  0% {
+      background-color: transparent; 
+  }
+  100% {
+      background-color: #c99898; 
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(243, 197, 111);
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  position: relative; 
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 14px 200px;
+  text-align: center;
+  text-decoration: none;
+  position: relative; 
+  background-color: transparent;
+  overflow: hidden; 
+}
+
+
+
+li a:hover {
+  animation: expandColor 0.5s ease-in-out forwards; 
+}
+
+
+p a{
+    display: block;
+    color: black;
+    padding: 0px 50px;
+    text-decoration: none;
+    float: left;
+  }
+
+#container_info{
+
+ 
+    overflow: hidden;
+
+  }
