@@ -58,7 +58,7 @@ Desenvolvimento de uma linguagem de programação minimalista baseada em lógica
 
 ### Ferramentas
 
-`Git` `GitHub` `Visual Studio Code` `PowerShell`
+`Git` `GitHub` `Visual Studio Code` 
 
 ---
 
