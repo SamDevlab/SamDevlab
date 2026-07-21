@@ -1,4 +1,4 @@
-# Olá, eu sou Samuel Araújo 👋
+# Olá, eu sou Samuel👋
 
 Sou estudante de **Ciência da Computação** e desenvolvedor de software, com interesse em **Desenvolvimento Web, Qualidade de Software e Testes Automatizados**.
 
