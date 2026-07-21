@@ -32,7 +32,7 @@ Tenho experiência prática com:
 
 Desenvolvimento de uma linguagem de programação minimalista baseada em lógica ternária balanceada, acompanhada por compilador, ferramentas de linha de comando, benchmarks e uma ampla suíte de testes automatizados.
 
-**Tecnologias:** Python, C, Assembly, GitHub Actions e Pytest.
+**Tecnologias:** Python, C, Assembly.
 
 
 ---
