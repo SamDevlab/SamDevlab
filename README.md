@@ -2,7 +2,7 @@
 
 Sou estudante de **Ciência da Computação** e desenvolvedor de software, com interesse em **Desenvolvimento Web, Qualidade de Software e Testes Automatizados**.
 
-Atualmente, trabalho com suporte técnico, investigação de falhas, reprodução de bugs e comunicação entre usuários e equipes de desenvolvimento.
+Atualmente, trabalho com suporte técnico, investigação de falhas.
 
 📍 Salvador, Bahia  
 🎓 Ciência da Computação — Estácio  
