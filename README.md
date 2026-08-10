@@ -1,82 +1,29 @@
-# Olá, eu sou Samuel👋
+# Olá, eu sou Samuel 👋
 
-Sou estudante de **Ciência da Computação** e desenvolvedor de software, com interesse em **Desenvolvimento Web, Qualidade de Software e Testes Automatizados**.
+Sou estudante de **Ciência da Computação** e desenvolvedor de software, com interesse em **Desenvolvimento Web, Qualidade de Software e Automação de Testes**.
 
-Atualmente, trabalho com suporte técnico, investigação de falhas.
+Atualmente trabalho com **suporte técnico e investigação de falhas**, enquanto continuo desenvolvendo projetos e aprimorando meus conhecimentos em desenvolvimento e QA.
 
-📍 Salvador, Bahia  
-🎓 Ciência da Computação — Estácio  
-💼 Estagiário de Suporte Técnico  
-🎯 Buscando evoluir profissionalmente nas áreas de Desenvolvimento e QA
-
----
-
-## 🧪 Qualidade e testes
-
-Tenho experiência prática com:
-
-- Testes manuais e automatizados;
-- Testes unitários, de integração e de componentes;
-- Criação e execução de cenários de teste;
-- Reprodução e documentação de bugs;
-- Validação de autenticação, permissões e regras de negócio;
-- Testes de APIs e tratamento de erros;
-- Integração contínua com GitHub Actions;
-- Type checking, build e validação de código antes das entregas.
-
----
-
-## 🚀 Projetos em destaque
-
-### S3 — Linguagem de programação experimental
-
-Desenvolvimento de uma linguagem de programação minimalista baseada em lógica ternária balanceada, acompanhada por compilador, ferramentas de linha de comando, benchmarks e uma ampla suíte de testes automatizados.
-
-**Tecnologias:** Python, C, Assembly.
-
-
----
+📍 Salvador, Bahia
+🎓 Ciência da Computação — Estácio
+💼 Estagiário de Suporte Técnico
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+`TypeScript` `JavaScript` `Python` `C#` `C` `SQL`
 
-`TypeScript` `JavaScript` `Python` `C#` `SQL` `C`
+`React` `Node.js` `Vite` `PostgreSQL` `Supabase`
 
-### Desenvolvimento web
+`Git` `GitHub` `GitHub Actions` `Vitest` `Pytest`
 
-`React` `Node.js` `Vite` `APIs REST`
+## 🚀 Projeto em destaque
 
-### Banco de dados e infraestrutura
+### S3
 
-`Supabase` `PostgreSQL` `Google Cloud`
+Linguagem de programação experimental baseada em **lógica ternária balanceada**, com compilador, ferramentas de linha de comando, benchmarks e testes automatizados.
 
-### Testes e qualidade
-
-`Vitest` `Pytest` `Testes manuais` `Testes unitários`  
-`Testes de integração` `GitHub Actions` `CI`
-
-### Ferramentas
-
-`Git` `GitHub` `Visual Studio Code` 
-
----
-
-## 🌱 Atualmente estudando
-
-- Ciência da Computação;
-- Qualidade e testes de software;
-- Desenvolvimento de sistemas web;
-- Estruturas de dados e algoritmos;
-- Compiladores e linguagens de programação;
-- Scrum e Kanban.
-
----
+**Tecnologias:** Python, C e Assembly.
 
 ## 📫 Contato
 
-- E-mail: **samusilvadev@gmail.com**
-
----
-
-> Desenvolvendo projetos, aprendendo continuamente e transformando problemas em soluções.
+**E-mail:** [samusilvadev@gmail.com](mailto:samusilvadev@gmail.com)
