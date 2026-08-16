@@ -48,7 +48,7 @@ Linguagem de programação experimental baseada em **lógica ternária balancead
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=SamDevlab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Estatísticas do GitHub" />
+<img src="https://github-stats-extended.vercel.app/api?username=SamDevlab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" height="180" alt="Estatísticas do GitHub" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamDevlab&layout=compact&langs_count=8&theme=tokyonight" height="180" alt="Linguagens mais utilizadas" />
 
