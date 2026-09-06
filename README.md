@@ -24,10 +24,10 @@ Meu portfólio combina **backend e produtos empresariais**, **sistemas distribu�
 
 ### Ciência, dados e visualização
 
-- **[Human Space Atlas](https://github.com/SamDevlab/human-space-atlas)** — atlas 3D com **CesiumJS**, catálogo orbital, propagação **SGP4**, Web Workers e dados de CelesTrak, NASA, NOAA e JPL.
-- **[Molecule Generation & Virtual Screening Suite](https://github.com/SamDevlab/molecule-generation-suite)** — química computacional e ML com **RDKit, XGBoost, fingerprints moleculares e AutoDock Vina**.
-- **[Transparência Municipal](https://github.com/SamDevlab/transparencia)** — framework reproduzível de dados públicos com proveniência, snapshots, evidência bruta, normalização e comparação conservadora.
-- **[Fraud Detection with XGBoost](https://github.com/SamDevlab/fraud-detection-xgboost)** — estudo de detecção de fraude com avaliação orientada a Precision-Recall e tratamento correto de desbalanceamento.
+- **[Human Space Atlas](https://github.com/SamDevlab/human-space-atlas)** - atlas 3D com **CesiumJS**, catálogo orbital, propagação **SGP4**, Web Workers e dados de CelesTrak, NASA, NOAA e JPL.
+- **[Molecule Generation & Virtual Screening Suite](https://github.com/SamDevlab/molecule-generation-suite)** - química computacional e ML com **RDKit, XGBoost, fingerprints moleculares e AutoDock Vina**.
+- **[Transparência Municipal](https://github.com/SamDevlab/transparencia)** - framework reproduzível de dados públicos com proveniência, snapshots, evidência bruta, normalização e comparação conservadora.
+- **[Fraud Detection with XGBoost](https://github.com/SamDevlab/fraud-detection-xgboost)** - estudo de detecção de fraude com avaliação orientada a Precision-Recall e tratamento correto de desbalanceamento.
 
 ### Linguagens e sistemas
 
