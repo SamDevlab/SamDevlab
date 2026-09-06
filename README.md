@@ -7,7 +7,7 @@ Estudante de **Ciência da Computação** e desenvolvedor de software focado em 
 Meu portfólio combina **backend e produtos empresariais**, **sistemas distribuídos/event-driven**, **Android**, **engenharia de dados**, **computação científica** e **linguagens/compiladores**.
 
 📍 Salvador, Bahia  
-🎓 Ciência da Computação — Estácio  
+🎓 Ciência da Computação - Estácio  
 💼 Suporte técnico, investigação de falhas e desenvolvimento de software
 
 ---
@@ -16,11 +16,11 @@ Meu portfólio combina **backend e produtos empresariais**, **sistemas distribu�
 
 ### Sistemas e produtos
 
-- **Lumenza CRM** *(privado)* — CRM B2B multi-tenant com **Java 25, Spring Boot 4, Angular 22 e PostgreSQL 17**; autorização por tenant, concorrência otimista, analytics derivados do banco, webhooks com transactional outbox, auditoria e E2E em navegador real.
-- **SignaForge** *(privado)* — plataforma de incident response e alert orchestration com **C# / .NET 10, ASP.NET Core, Next.js, PostgreSQL, Valkey e RabbitMQ**; ingestão assíncrona, deduplicação, idempotência, DLQ, SignalR e políticas de escalonamento.
-- **Show** *(privado)* — plataforma de digital signage com **React/TypeScript, Supabase e Android Kotlin/Jetpack Compose/Media3**; player offline-first, revisions imutáveis, SHA-256, last-known-good, reprodução contínua e gateway de streaming.
-- **Inteligência de Licitações — Bahia** *(privado)* — apoio à decisão com coleta, evidência, riscos, tarefas, estimativas e fronteiras explícitas de autoridade humana.
-- **Radar de Importação Brasil** *(privado)* — descoberta multi-fonte, snapshots, sourcing, compliance, logística, recálculo seletivo e decisão econômica conservadora diante de dados incompletos.
+- **Lumenza CRM** *(privado)* - CRM B2B multi-tenant com **Java 25, Spring Boot 4, Angular 22 e PostgreSQL 17**; autorização por tenant, concorrência otimista, analytics derivados do banco, webhooks com transactional outbox, auditoria e E2E em navegador real.
+- **SignaForge** *(privado)* - plataforma de incident response e alert orchestration com **C# / .NET 10, ASP.NET Core, Next.js, PostgreSQL, Valkey e RabbitMQ**; ingestão assíncrona, deduplicação, idempotência, DLQ, SignalR e políticas de escalonamento.
+- **Show** *(privado)* - plataforma de digital signage com **React/TypeScript, Supabase e Android Kotlin/Jetpack Compose/Media3**; player offline-first, revisions imutáveis, SHA-256, last-known-good, reprodução contínua e gateway de streaming.
+- **Inteligência de Licitações — Bahia** *(privado)* - apoio à decisão com coleta, evidência, riscos, tarefas, estimativas e fronteiras explícitas de autoridade humana.
+- **Radar de Importação Brasil** *(privado)* - descoberta multi-fonte, snapshots, sourcing, compliance, logística, recálculo seletivo e decisão econômica conservadora diante de dados incompletos.
 
 ### Ciência, dados e visualização
 
@@ -31,8 +31,8 @@ Meu portfólio combina **backend e produtos empresariais**, **sistemas distribu�
 
 ### Linguagens e sistemas
 
-- **S3** *(privado)* — linguagem experimental de sistemas baseada em ternário balanceado, com frontend de compilador, análise semântica, IR tipada, SSA/CFG, verifier, otimizações, assembly própria, emulador e backend Linux x86-64.
-- **[S3-Benchmarks](https://github.com/SamDevlab/S3-Benchmarks)** — harness público de correção e benchmarking do ecossistema S3, com equivalência observável antes da comparação de desempenho.
+- **S3** *(privado)* - linguagem experimental de sistemas baseada em ternário balanceado, com frontend de compilador, análise semântica, IR tipada, SSA/CFG, verifier, otimizações, assembly própria, emulador e backend Linux x86-64.
+- **[S3-Benchmarks](https://github.com/SamDevlab/S3-Benchmarks)** - harness público de correção e benchmarking do ecossistema S3, com equivalência observável antes da comparação de desempenho.
 
 ---
 
@@ -88,5 +88,4 @@ Nem todo projeto usa todos esses componentes; a arquitetura é escolhida de acor
 
 ## Contato
 
-**GitHub:** [@SamDevlab](https://github.com/SamDevlab)  
 **E-mail:** [samusilvadev@gmail.com](mailto:samusilvadev@gmail.com)
