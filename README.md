@@ -19,7 +19,7 @@ Meu portfólio combina **backend e produtos empresariais**, **sistemas distribu�
 - **Lumenza CRM** *(privado)* - CRM B2B multi-tenant com **Java 25, Spring Boot 4, Angular 22 e PostgreSQL 17**; autorização por tenant, concorrência otimista, analytics derivados do banco, webhooks com transactional outbox, auditoria e E2E em navegador real.
 - **SignaForge** *(privado)* - plataforma de incident response e alert orchestration com **C# / .NET 10, ASP.NET Core, Next.js, PostgreSQL, Valkey e RabbitMQ**; ingestão assíncrona, deduplicação, idempotência, DLQ, SignalR e políticas de escalonamento.
 - **Show** *(privado)* - plataforma de digital signage com **React/TypeScript, Supabase e Android Kotlin/Jetpack Compose/Media3**; player offline-first, revisions imutáveis, SHA-256, last-known-good, reprodução contínua e gateway de streaming.
-- **Inteligência de Licitações — Bahia** *(privado)* - apoio à decisão com coleta, evidência, riscos, tarefas, estimativas e fronteiras explícitas de autoridade humana.
+- **Inteligência de Licitações - Bahia** *(privado)* - apoio à decisão com coleta, evidência, riscos, tarefas, estimativas e fronteiras explícitas de autoridade humana.
 - **Radar de Importação Brasil** *(privado)* - descoberta multi-fonte, snapshots, sourcing, compliance, logística, recálculo seletivo e decisão econômica conservadora diante de dados incompletos.
 
 ### Ciência, dados e visualização
